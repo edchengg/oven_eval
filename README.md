@@ -20,6 +20,8 @@
 
 To download annotations and an image snapshot, please fill in this [form](https://forms.gle/SbWLfbexhQV9w2H26) and the link will be automatically shared with the registered email.
 
+- Note: "oven_images" folder contains all images for OVEN and [InfoSeek](https://open-vision-language.github.io/infoseek/). "infoseek_images" folder is a subset of "oven_images".
+
 To download all images from the source dataset, please go to "image_downloads/" and run all download scripts. Then run the following script to merge all data with [ovenid2impath.csv](https://drive.google.com/file/d/15ICSQfyF-lwpqYjkXZ3DryY4FVimQW0b/view?usp=drive_link):
 ```python
 python merge_oven_images.py
