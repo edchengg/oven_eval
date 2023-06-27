@@ -28,31 +28,31 @@ python merge_oven_images.py
 ```
 
 ## Evaluation
-```
+```python
 python run_oven_eval.py
 
-===== BLIP2 Zeroshot ====
-===== Validation ========
-===== Final score 7.87
-===== Query Split score 20.58
-===== Entity Split score 4.87
-===== Query Seen Accuracy 24.63
-===== Query Seen Accuracy 17.68
-===== Entity Seen Accuracy 8.55
-===== Entity Seen Accuracy 3.4
+# ===== BLIP2 Zeroshot ====
+# ===== Validation ========
+# ===== Final score 7.87
+# ===== Query Split score 20.58
+# ===== Entity Split score 4.87
+# ===== Query Seen Accuracy 24.63
+# ===== Query Seen Accuracy 17.68
+# ===== Entity Seen Accuracy 8.55
+# ===== Entity Seen Accuracy 3.4
 ```
 
 ## Starting Code
 - Run BLIP2 zero-shot inference:
-```
+```python
 python run_blip2_oven.py --split val_entity
 ```
 - Next, we need to run BM25 to map the BLIP2 predictions to Wikipedia 6M label space:
-```
+```python
 python run_bm25_query.py --input_file {INPUT} --output_file {OUTPUT}
 ```
 - Before running BM25, you need to run BM25 index of Wikiepdia (Download Wikipedia from the "Wiki6M_ver_1_0_title_only.jsonl")
-```
+```python
 python run_bm25_index.py
 ```
 
