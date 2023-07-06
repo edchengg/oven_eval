@@ -37,9 +37,9 @@ python run_oven_eval.py
 # ===== Query Split score 20.58
 # ===== Entity Split score 4.87
 # ===== Query Seen Accuracy 24.63
-# ===== Query Seen Accuracy 17.68
+# ===== Query Unseen Accuracy 17.68
 # ===== Entity Seen Accuracy 8.55
-# ===== Entity Seen Accuracy 3.4
+# ===== Entity Unseen Accuracy 3.4
 ```
 
 ## Starting Code
