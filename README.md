@@ -1,6 +1,6 @@
-# Unofficial Data Downloading and Processing Pipeline for [OVEN](https://arxiv.org/abs/2302.11154)
-
-[[Project Page]](https://open-vision-language.github.io/oven/)[[Paper]](https://arxiv.org/abs/2302.11154)
+# Data Downloading and Processing Pipeline for [OVEN](https://arxiv.org/abs/2302.11154)
+- Community Contributed Repository
+- [[Project Page]](https://open-vision-language.github.io/oven/)[[Paper]](https://arxiv.org/abs/2302.11154)
 [[Dataset]](#oven-dataset)[[Sibling Project (Infoseek)]](https://open-vision-language.github.io/infoseek/)
 
 <p align="center">
