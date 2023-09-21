@@ -7,7 +7,7 @@ from collections import defaultdict
 
 
 def load_jsonl(path: str) -> List[Dict[str, Any]]:
-    """Load a JSONL file into a list of Dict[strionaries."""
+    """Load a JSONL file into a list of Dictionary."""
     data = []
     with open(path, 'r', encoding='utf-8') as file:
         for line in file:
