@@ -55,13 +55,13 @@ python run_blip2_oven.py --split val_entity
 ```python
 python run_bm25_query.py --input_file {INPUT} --output_file {OUTPUT}
 ```
-- Before running BM25, you need to run BM25 index of Wikiepdia (Download Wikipedia from the "Wiki6M_ver_1_0_title_only.jsonl")
+- Before running BM25, you need to run BM25 index of Wikipedia (Download Wikipedia from the "Wiki6M_ver_1_0_title_only.jsonl")
 ```python
 python run_bm25_index.py
 ```
 
 ## Acknowledgement
-If you find OVEN useful for your your research and applications, please cite using this BibTeX:
+If you find OVEN useful for your research and applications, please cite using this BibTeX:
 ```
 @article{hu2023open,
   title={Open-domain Visual Entity Recognition: Towards Recognizing Millions of Wikipedia Entities},
