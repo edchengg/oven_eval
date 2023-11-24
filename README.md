@@ -26,7 +26,7 @@ To download annotations and an image snapshot, please fill in this [form](https:
 
 - To download Wikipedia 6M knowledge base (title only or image url), please run bash script download_wiki.sh. Download 6M wiki infobox images from 'all_wikipedia_images.tar'.
 
-To download all images from the source dataset, please go to "image_downloads/" and run all download scripts. Then run the following script to merge all data with [ovenid2impath.csv](https://drive.google.com/file/d/15ICSQfyF-lwpqYjkXZ3DryY4FVimQW0b/view?usp=drive_link):
+To download all images from the source dataset, please go to "image_downloads/" and run all download scripts. Then run the following script to merge all data with [ovenid2impath.csv](https://forms.gle/SbWLfbexhQV9w2H26):
 ```python
 python merge_oven_images.py
 ```
