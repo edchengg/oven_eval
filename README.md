@@ -13,8 +13,9 @@
 [Hexiang Hu](https://www.hexianghu.com/), [Yi Luan](https://luanyi.github.io/), [Yang Chen](https://edchengg.github.io/), [Urvashi Khandelwal](https://urvashik.github.io/), [Mandar Joshi](https://mandarjoshi90.github.io/), [Kenton Lee](https://kentonl.com/), [Kristina Toutanova](http://kristinatoutanova.com/), [Ming-Wei Chang](https://mingweichang.org/).
 
 ## Release
-- [6/7] Releasing the annotation for the [OVEN Dataset](#oven-dataset).
-- [6/10] Implementing the data downloading script that can reproduce the data from original images. 
+- [24/5/30] Image data is on Huggingface dataset now: [ychenNLP/oven](https://huggingface.co/datasets/ychenNLP/oven).
+- [23/6/10] Implementing the data downloading script that can reproduce the data from original images. 
+- [23/6/7] Releasing the annotation for the [OVEN Dataset](#oven-dataset).
 
 ## OVEN Dataset
 
