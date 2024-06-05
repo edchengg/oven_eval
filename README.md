@@ -19,6 +19,10 @@
 
 ## OVEN Dataset
 
+**[24/5/30] Image data is on Huggingface dataset now 🤗: [ychenNLP/oven](https://huggingface.co/datasets/ychenNLP/oven).**
+
+**Deprecate in [24/8/30]**:
+
 To download annotations and an image snapshot, please fill in this [form](https://forms.gle/SbWLfbexhQV9w2H26) and the link will be automatically shared with the registered email.
 
 - Note: "oven_images" folder contains all images for OVEN and [InfoSeek](https://open-vision-language.github.io/infoseek/). "infoseek_images" folder is a subset of "oven_images".
