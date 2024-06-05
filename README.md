@@ -21,7 +21,7 @@
 
 **[24/5/30] Image data is on Huggingface dataset now 🤗: [ychenNLP/oven](https://huggingface.co/datasets/ychenNLP/oven).**
 
-**Deprecate in [24/8/30]**:
+**The following method will be deprecated on [24/8/30]**:
 
 To download annotations and an image snapshot, please fill in this [form](https://forms.gle/SbWLfbexhQV9w2H26) and the link will be automatically shared with the registered email.
 
