@@ -19,15 +19,7 @@
 
 ## OVEN Dataset
 
-**[24/5/30] Image data is on Huggingface dataset now 🤗: [ychenNLP/oven](https://huggingface.co/datasets/ychenNLP/oven).**
-
-**The following method will be deprecated on [24/8/30]**:
-
-To download annotations and an image snapshot, please fill in this [form](https://forms.gle/SbWLfbexhQV9w2H26) and the link will be automatically shared with the registered email.
-
-- Note: "oven_images" folder contains all images for OVEN and [InfoSeek](https://open-vision-language.github.io/infoseek/). "infoseek_images" folder is a subset of "oven_images".
-
-- To download annotation jsonl files, please run download bash script in folder "oven".
+To download annotations and an image snapshot, ~~please fill in this [form](https://forms.gle/SbWLfbexhQV9w2H26)~~ check out Huggingface dataset at 🤗: [ychenNLP/oven](https://huggingface.co/datasets/ychenNLP/oven), which support high-speed wget command.
 
 - To download Wikipedia 6M knowledge base (title only or image url), please run bash script download_wiki.sh. Download 6M wiki infobox images from 'all_wikipedia_images.tar'.
 
