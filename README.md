@@ -19,7 +19,7 @@
 
 ## OVEN Dataset
 
-To download annotations and an image snapshot, ~~please fill in this [form](https://forms.gle/SbWLfbexhQV9w2H26)~~ check out Huggingface dataset at 🤗: [ychenNLP/oven](https://huggingface.co/datasets/ychenNLP/oven), which support high-speed wget command.
+To download annotations and an image snapshot, check out Huggingface dataset at 🤗: [ychenNLP/oven](https://huggingface.co/datasets/ychenNLP/oven), which support high-speed wget command.
 
 - To download Wikipedia 6M knowledge base (title only or image url), please run bash script download_wiki.sh. Download 6M wiki infobox images from 'all_wikipedia_images.tar'.
 
